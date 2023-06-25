@@ -1,5 +1,5 @@
 # git-practice
-このリポジトリはGit動画講座用です．
-ローカルリポで変更します。
-mainで変更(conflict用)
+���̃��|�W�g����Git����u���p�ł��D
+���[�J�����|�ŕύX���܂��B
+rebase-practice�ŕҏW(rebase practice�p)
 
