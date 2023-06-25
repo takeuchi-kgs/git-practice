@@ -1,5 +1,6 @@
 # git-practice
-‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ÍGit“®‰æuÀ—p‚Å‚·D
-ƒ[ƒJƒ‹ƒŠƒ|‚Å•ÏX‚µ‚Ü‚·B
-rebase-practice‚Å•ÒW(rebase practice—p)
+ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã¯Gitå‹•ç”»è¬›åº§ç”¨ã§ã™ï¼
+ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã§å¤‰æ›´ã—ã¾ã™ã€‚
+rebase-practiceã§ä¿®æ­£ã€€(rebase conflictç”¨)
 
+g
